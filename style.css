@@ -1,0 +1,47 @@
+header
+{
+    display: flex;
+    width: 100%;
+    border-style: dotted;
+
+}
+body
+{
+    background : url("image/liseré.png") no-repeat, url("https://c.pxhere.com/photos/c8/48/nature_pier_lake_dock_clear-306.jpg!d") no-repeat center;
+}
+
+h2
+{
+    text-align: center;
+    color: #71cc08;
+    border-style: dotted;
+}
+ul
+{
+    border-style: dotted;
+    border-color: hsl(345, 67%, 43%);
+}
+h1
+{
+    color: cornsilk;
+    text-align: center;
+    width: 100%;
+}
+#bloc_page
+{
+    width: 100%;
+    margin: auto;
+}
+#photo
+{
+    margin-left: 0px;
+    position: relative;
+}
+#conteneur
+{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: solid;
+    justify-content: space-between;
+}
