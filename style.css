@@ -3,11 +3,12 @@ header
     display: flex;
     width: 100%;
     border-style: dotted;
-
+    background: url("image/liseré.png") no-repeat;
 }
 body
 {
-    background : url("image/liseré.png") no-repeat, url("https://c.pxhere.com/photos/c8/48/nature_pier_lake_dock_clear-306.jpg!d") no-repeat center;
+    background : url("https://c.pxhere.com/photos/c8/48/nature_pier_lake_dock_clear-306.jpg!d") no-repeat center;
+    background-size: 100%;
 }
 
 h2
