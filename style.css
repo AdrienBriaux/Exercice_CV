@@ -3,7 +3,6 @@ header
     display: flex;
     width: 100%;
     border-style: dotted;
-    background: url("image/liseré.png") no-repeat;
 }
 body
 {
@@ -30,6 +29,7 @@ h1
 }
 #bloc_page
 {
+    background: url("image/liseré.png") no-repeat top left;
     width: 100%;
     margin: auto;
 }
