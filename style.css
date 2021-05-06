@@ -14,7 +14,7 @@ h2
 {
     text-align: center;
     color: #71cc08;
-    border-style: dotted;
+    
 }
 ul
 {
@@ -26,6 +26,7 @@ h1
     color: cornsilk;
     text-align: center;
     width: 100%;
+    height: auto;
 }
 #bloc_page
 {
